@@ -31,8 +31,9 @@ These questions are meant to test what you've learned from the Python Basics tut
 
 1. Write a conditional statement with 3 conditions: when x is 10, when x is 1, and when x is anything other than 1 or 10. For each condition, have your code print what the value is or isn't.
 
-<!--- Fill you answer here. --->
-
+<!--- Fill your answer here. --->
+if(x = 10):
+  
 
 
 
